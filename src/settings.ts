@@ -34,6 +34,5 @@ export class VisualSettings extends DataViewObjectsParser {
 }
 
 export class TimelineSettings {
-  public title: string = "";
 }
 
